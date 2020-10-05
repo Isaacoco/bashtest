@@ -1,0 +1,10 @@
+Notes sur la version 9
+
+Différence par rapport à la version 8
+
+Mise en place du panier
+Etape 1 : 
+- ajouter une fleur dans le panier
+- visualiser le contenu du panier
+
+
